@@ -1,0 +1,14 @@
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\bin\Debug\net7.0\miniprojectwo.exe
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\bin\Debug\net7.0\miniprojectwo.deps.json
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\bin\Debug\net7.0\miniprojectwo.runtimeconfig.json
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\bin\Debug\net7.0\miniprojectwo.dll
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\bin\Debug\net7.0\miniprojectwo.pdb
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\obj\Debug\net7.0\miniprojectwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\obj\Debug\net7.0\miniprojectwo.AssemblyInfoInputs.cache
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\obj\Debug\net7.0\miniprojectwo.AssemblyInfo.cs
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\obj\Debug\net7.0\miniprojectwo.csproj.CoreCompileInputs.cache
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\obj\Debug\net7.0\miniprojectwo.dll
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\obj\Debug\net7.0\refint\miniprojectwo.dll
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\obj\Debug\net7.0\miniprojectwo.pdb
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\obj\Debug\net7.0\miniprojectwo.genruntimeconfig.cache
+C:\Programming\CSharp\Security\miniprojectwo\miniprojectwo\obj\Debug\net7.0\ref\miniprojectwo.dll
